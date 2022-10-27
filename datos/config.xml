@@ -1,0 +1,10 @@
+<config>
+	<!--
+	#######################
+	###       LBWA      ###
+	#######################
+	-->
+	<!-- (int) Variación que se aplica al máximo de importancia local para calcular el coeficiente de elasticidad. Debe ser > 0.
+	Este parámetro es algo arbitrario. Los creadores del método lo fijan a 1. -->
+	<variaciónElasticidad>1</variaciónElasticidad>
+</config>

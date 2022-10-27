@@ -1,0 +1,48 @@
+<criterios>
+	<criterio>
+		<id>CEp</id>
+		<nombre>Criterios epidemiológicos</nombre>
+		<subcriterios>
+			<criterio>
+				<id>RI</id>
+				<nombre>Riesgo importado</nombre>
+			</criterio>
+		</subcriterios>
+	</criterio>
+	<criterio>
+		<id>CEc</id>
+		<nombre>Criterios económicos</nombre>
+		<subcriterios>
+			<criterio>
+				<id>PP</id>
+				<nombre>Pérdida de pasajeros</nombre>
+			</criterio>
+			<criterio>
+				<id>ID</id>
+				<nombre>Impacto en los destinos</nombre>
+			</criterio>
+			<criterio>
+				<id>HAl</id>
+				<nombre>Homogeneidad aerolíneas</nombre>
+			</criterio>
+			<criterio>
+				<id>HAr</id>
+				<nombre>Homogeneidad aeropuertos</nombre>
+			</criterio>
+		</subcriterios>
+	</criterio>
+	<criterio>
+		<id>CSP</id>
+		<nombre>Criterios sociales / políticos</nombre>
+		<subcriterios>
+			<criterio>
+				<id>PA</id>
+				<nombre>Personas afectadas</nombre>
+			</criterio>
+			<criterio>
+				<id>C</id>
+				<nombre>Conectividad</nombre>
+			</criterio>
+		</subcriterios>
+	</criterio>
+</criterios>

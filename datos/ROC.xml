@@ -1,0 +1,32 @@
+<ROC>
+	<familia>
+		<raíz></raíz>
+		<criterios>
+			<criterio id="CEp"/>
+			<criterio id="CSP"/>
+			<criterio id="CEc"/>
+		</criterios>
+	</familia>
+	<familia>
+		<raíz>CEp</raíz>
+		<criterios>
+			<criterio id="RI"/>
+		</criterios>
+	</familia>
+	<familia>
+		<raíz>CEc</raíz>
+		<criterios>
+			<criterio id="PP"/>
+			<criterio id="ID"/>
+			<criterio id="HAl"/>
+			<criterio id="HAr"/>
+		</criterios>
+	</familia>
+	<familia>
+		<raíz>CSP</raíz>
+		<criterios>
+			<criterio id="PA"/>
+			<criterio id="C"/>
+		</criterios>
+	</familia>
+</ROC>

@@ -1,0 +1,44 @@
+<Sismos>
+	<familia>
+		<raíz></raíz>
+		<elementos>
+			<criterio id="CEp"/>
+			<criterio id="CSP"/>
+			<blanco/>
+			<criterio id="CEc"/>
+		</elementos>
+		<ratioMenorMayor>4</ratioMenorMayor>
+	</familia>
+	<familia>
+		<raíz>CEp</raíz>
+		<elementos>
+			<criterio id="RI"/>
+		</elementos>
+		<ratioMenorMayor>1</ratioMenorMayor>
+	</familia>
+	<familia>
+		<raíz>CEc</raíz>
+		<elementos>
+			<criterio id="PP"/>
+			<blanco/>
+			<criterio id="ID"/>
+			<blanco/>
+			<blanco/>
+			<grupo>
+				<criterio id="HAl"/>
+				<criterio id="HAr"/>
+			</grupo>
+		</elementos>
+		<ratioMenorMayor>6</ratioMenorMayor>
+	</familia>
+	<familia>
+		<raíz>CSP</raíz>
+		<elementos>
+			<criterio id="PA"/>
+			<blanco/>
+			<blanco/>
+			<criterio id="C"/>
+		</elementos>
+		<ratioMenorMayor>2</ratioMenorMayor>
+	</familia>
+</Sismos>
