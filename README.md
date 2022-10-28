@@ -10,3 +10,5 @@ La herramienta está desarrollada en C# y se puede utilizar para obtener pesos d
 - Level Based Weight Assessment ([Žižovic y Pamucar, 2019](https://www.dmame.rabek.org/index.php/dmame/article/view/48))
 
 La carpeta `datos` contiene un ejemplo con los ficheros que se pueden usar como entrada para los diferentes métodos que puede ejecutar el programa.
+
+Véase también el [repositorio principal del proyecto](https://github.com/aledomcam/TFM-EarlyWarn).
